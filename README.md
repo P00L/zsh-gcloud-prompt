@@ -23,7 +23,7 @@ For example, add following lines to `~/.zshrc`
 
 ```
 autoload -Uz colors; colors
-source /path/to/zsh-gcloud-prompt/gcloud.zsh
+source ~/.oh-my-zsh/custom/plugins/zsh-gcloud-prompt/gcloud.zsh
 ```
 
 to enable plugin
