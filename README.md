@@ -12,7 +12,7 @@ Extra feature avoid overwrite of RPROMPT config for other plugin and possibility
 #### 1. Check out the repository.
 
 ```
-$ git clone https://github.com/pool-bip/zsh-gcloud-prompt.git  ~/.oh-my-zsh/custom/plugins/zsh-gcloud-prompt
+$ git clone https://github.com/P00L/zsh-gcloud-prompt.git  ~/.oh-my-zsh/custom/plugins/zsh-gcloud-prompt
 ```
 
 #### 2. Configure your zsh
