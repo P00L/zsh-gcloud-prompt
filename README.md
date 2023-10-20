@@ -33,7 +33,7 @@ gcp_prompt_info_on
 ```
 
 
-to enable plugin
+to disable plugin
 
 ```
 gcp_prompt_info_off
