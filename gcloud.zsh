@@ -17,7 +17,7 @@ function _set_zsh_gcloud_prompt() {
     # sdk="$(cat $HOME/.config/gcloud/application_default_credentials.json | jq -r '.quota_project_id')"
     ZSH_GCLOUD_PROMPT="${account}:${project}"
     if [[ "$RPROMPT" != *'$(gcp_prompt_info)'* ]]; then
-    RPROMPT='$(gcp_prompt_info)'" $RPROMPT"
+        RPROMPT='$(gcp_prompt_info)'" $RPROMPT"
     fi
 }
 function _is_gcloud_config_updated() {

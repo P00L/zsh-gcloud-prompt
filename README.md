@@ -3,7 +3,7 @@ Show current gcloud config in zsh prompt.
 
 This script is inspired by [zsh-gcloud-prompt](https://github.com/ocadaruma/zsh-gcloud-prompt)
 
-Extra feature avoind overwrite of RPROMPT config and possibility to enable or disable display of gcloud config
+Extra feature avoid overwrite of RPROMPT config for other plugin and possibility to enable or disable display of gcloud config
 
 ![capture](capture.png)
 
